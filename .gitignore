@@ -8,6 +8,12 @@ Gemfile.lock
 .jekyll-metadata
 _site
 
+# My posts and assets
+_posts/writeups/
+_posts/posts/
+assets/posts/
+assets/writeups/
+
 # RubyGems
 *.gem
 
