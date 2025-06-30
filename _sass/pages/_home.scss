@@ -39,6 +39,17 @@
       }
     }
 
+    .preview-img.logo {
+      width: 128px;
+      height: 128px;
+
+      margin: 5px;
+      
+      @media not (max-width: 600px) {
+          margin-left: 172px;
+      }
+    }
+
     .card-body {
       height: 100%;
       padding: 1rem;

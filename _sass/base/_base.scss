@@ -72,10 +72,6 @@ main {
 
   @extend %rounded;
 
-  &:not(.no-bg) {
-    background: var(--img-bg);
-  }
-
   img {
     height: 100%;
     -o-object-fit: cover;
