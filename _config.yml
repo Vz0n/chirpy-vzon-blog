@@ -212,6 +212,7 @@ exclude:
   - _drafts
   - docs
   - templates
+  - create_post.sh
   - tools
   - README.md
   - LICENSE
