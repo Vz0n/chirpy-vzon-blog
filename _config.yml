@@ -211,6 +211,7 @@ exclude:
   - "*.gemspec"
   - _drafts
   - docs
+  - templates
   - tools
   - README.md
   - LICENSE
