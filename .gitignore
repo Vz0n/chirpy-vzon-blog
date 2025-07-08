@@ -14,6 +14,7 @@ _posts/posts/
 assets/posts/
 assets/writeups/
 assets/img/favicons/
+_drafts/
 
 # RubyGems
 *.gem
